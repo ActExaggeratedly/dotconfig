@@ -1,0 +1,3 @@
+[filesystem "JetBrains s.r.o.|17.0.10|rpool/ROOT/ubuntu_phmibz"]
+	timestampResolution = 6550 nanoseconds
+	minRacyThreshold = 6599 microseconds
